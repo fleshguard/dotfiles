@@ -7,7 +7,8 @@ My collection of minimal configuration files, simple as.
 * Compositor: [picom](https://github.com/yshui/picom)
 ## How it will look:
 ![img](Screenshot_2024-05-17_05-23-45.png)
+## Dependencies for Void:
+'$ xbps-install -S base-devel libX11-devel libXft-devel libXinerama-devel git make'
 ## Notes:
 * Picom will not work if you're running Void. The screenshot was taken on Debian.
-* For special characters to show up in slstatus, [download fontawesome](https://fontawesome.com/), and place the file in /usr/share/fonts/truetype. If the truetype directory isn't already created, use mkdir.
 * More will be added soon :<
