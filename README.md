@@ -8,7 +8,7 @@ My collection of minimal configuration files, simple as.
 ## How it will look:
 ![img](Screenshot_2024-05-17_05-23-45.png)
 ## Dependencies for Void:
-'$ xbps-install -S base-devel libX11-devel libXft-devel libXinerama-devel git make'
+'$ xbps-install -S base-devel libX11-devel libXft-devel libXinerama-devel git make xwallpaper'
 ## Notes:
 * Open Fonts, and place 'opentype' and 'truetype' in /usr/share/fonts. If the two directories are already created, just place the two files in their respected, already created, directories.
 * Picom will not work if you're running Void. The screenshot was taken on Debian.
