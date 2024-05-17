@@ -8,4 +8,5 @@ My collection of minimal configuration files, simple as.
 ## How it will look:
 ![img](Screenshot_2024-05-17_05-23-45.png)
 ## Notes:
-For special characters to show up in slstatus, [download fontawesome](https://fontawesome.com/), and place the file in /usr/share/fonts/truetype. If the truetype directory isn't already created, use mkdir.
+* For special characters to show up in slstatus, [download fontawesome](https://fontawesome.com/), and place the file in /usr/share/fonts/truetype. If the truetype directory isn't already created, use mkdir.
+* More will be added soon :<
