@@ -6,7 +6,7 @@ My collection of minimal configuration files, simple as.
 * WM: [dwm](https://dwm.suckless.org/) w/ [slstatus](https://tools.suckless.org/slstatus/)
 * Compositor: [picom](https://github.com/yshui/picom)
 ## How it will look:
-![img](Screenshot_2024-05-17_05-23-45.png)
+![img](screenshot.jpg)
 ## Dependencies for Void:
 '$ xbps-install -S base-devel libX11-devel libXft-devel libXinerama-devel git make xwallpaper'
 ## Notes:
