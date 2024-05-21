@@ -8,7 +8,7 @@ My collection of minimal configuration files, simple as.
 ## How it will look:
 ![img](screenshot.jpg)
 ## Dependencies for Void:
-'$ xbps-install -S base-devel libX11-devel libXft-devel libXinerama-devel git make xwallpaper'
+'$ xbps-install -S base-devel libX11-devel libXft-devel libXinerama-devel git make xwallpaper grep awk'
 ## Notes:
 * Open Fonts, and place 'opentype' and 'truetype' in /usr/share/fonts. If the two directories are already created, just place the two files in their respected, already created, directories.
 * More will be added soon :<
