@@ -6,12 +6,12 @@ static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { "FontAwesome:size=13.5" };
-static const char dmenufont[]       = "FontAwesome:size=13.5"; //FiraCode-Bold 
-static const char col_gray1[]       = "#040002"; //Was two two two two two two
+static const char dmenufont[]       = "FontAwesome:size=13.5"; 
+static const char col_gray1[]       = "#040002"; 
 static const char col_gray2[]       = "#040002";
 static const char col_gray3[]       = "#b2b2b2";
 static const char col_gray4[]       = "#444444";
-static const char col_cyan[]        = "#eeeeee"; //Was zero zero five five seven seven 
+static const char col_cyan[]        = "#eeeeee"; 
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
 	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },
@@ -19,7 +19,7 @@ static const char *colors[][3]      = {
 };
 
 /* tagging */
-static const char *tags[] = { "1", "2", "3", "4", "5", "6", "7", };
+static const char *tags[] = { "1", "2", "3", "4", "5", "6", "7", "8", "9", };
 
 static const Rule rules[] = {
 	/* xprop(1):
