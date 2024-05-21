@@ -1,5 +1,8 @@
-## Dotfiles
+## Dotfiles 
+
 My collection of minimal configuration files, simple as.
+
+![GitHub repo size](https://img.shields.io/github/repo-size/fleshguard/dotfiles?style=for-the-badge&label=Size%3A&labelColor=%23020202&color=%23b2b2b2)
 ## System Information:
 * OS: [Void Linux](https://voidlinux.org/)
 * Terminal Emulator: [st](https://st.suckless.org/)
