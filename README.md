@@ -9,9 +9,9 @@ My collection of minimal, and patched, configuration files.
 * WM: [dwm](https://dwm.suckless.org/) w/ [slstatus](https://tools.suckless.org/slstatus/)
 * Compositor: [picom](https://github.com/yshui/picom)
   
-  [See patches](/Etc/patches.md)
+  [See patches](/Github/patches.md)
 ## How it will look:
-![img](screenshot.jpg)
+![img](/Github/screenshot.jpg)
 ## Dependencies for Void:
 '$ xbps-install -S base-devel libX11-devel libXft-devel libXinerama-devel git make xwallpaper grep awk'
 
