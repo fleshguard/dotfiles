@@ -8,6 +8,8 @@ My collection of minimal, and patched, configuration files.
 * Terminal Emulator: [st](https://st.suckless.org/)
 * WM: [dwm](https://dwm.suckless.org/) w/ [slstatus](https://tools.suckless.org/slstatus/)
 * Compositor: [picom](https://github.com/yshui/picom)
+  
+  [See patches](/Etc/patches.md)
 ## How it will look:
 ![img](screenshot.jpg)
 ## Dependencies for Void:
