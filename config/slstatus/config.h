@@ -67,6 +67,6 @@ static const struct arg args[] = {
 	/* function format          argument */
 	{ run_command, " %s  ",		"ip link | grep enp | awk '{print $9}'" },
 	{ run_command, "  %s  ",	"amixer sget Master | awk -F\"[][]\" '/%/ { print $2 }' | head -n1" },
-	{ cat, " %s% | ",	"/sys/class/power_supply/BAT0/capacity"		},
+	{ cat, " %s% ~ ",	"/sys/class/power_supply/BAT0/capacity"		},
 	{ datetime, "%s",		"%h %d (%A) %r"	},
 };
