@@ -11,7 +11,7 @@ My collection of minimal, and patched, configuration files.
   
   [See patches](/Github/patches.md)
 ## How it will look:
-![img](/Github/screenshot.jpg)
+![img](/Github/screenshot_1.jpg)
 ## Dependencies for Void:
 '$ xbps-install -S base-devel libX11-devel libXft-devel libXinerama-devel git make xwallpaper grep awk'
 
