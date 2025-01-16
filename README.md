@@ -14,6 +14,6 @@ My collection of minimal, and patched, configuration files for X.
 ## How it will look:
 ![Screenshot](/Github/screenshot.png)
 ## Dependencies for Arch (pacman):
-'$ pacman -Sy base-devel git libx11 libxft xorg-server xorg-xinit terminus-font awk rofi dunst picom ttf-fira-code ttf-fantasque-sans-mono ttf-nerd-font'
+'$ pacman -Sy base-devel git libx11 libxft xorg-server xorg-xinit terminus-font awk rofi dunst scrot picom ttf-fira-code ttf-fantasque-sans-mono ttf-nerd-font'
 
 
