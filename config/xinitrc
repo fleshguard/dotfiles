@@ -1,0 +1,15 @@
+
+xrandr --output HDMI-1-0 --auto --primary --left-of eDP1
+xrandr --output eDP1 --brightness 0.80
+xwallpaper --output HDMI-1-0 --zoom ~/Pictures/Wallpapers/Rands/rand_wallpaper_81.jpg && xwallpaper --output eDP1 --zoom ~/Pictures/Wallpapers/Rands/rand_wallpaper_81.jpg
+
+picom -b
+slstatus & disown
+#autotiling & disown
+
+# xf86-input-synaptics removes certain options, makes it more convoluted.
+xinput set-prop 12 328 0.48
+xinput set-prop 23 354 0
+xinput set-prop 12 361 0
+
+exec dwm
