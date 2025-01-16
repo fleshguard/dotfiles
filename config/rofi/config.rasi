@@ -1,0 +1,10 @@
+configuration {
+	display-drun: " 󰘳 Binaries: ";
+	drun-display-format: "{icon} {name}";
+	modi: "window,drun,combi" ;
+	font: "SourceCodePro 13" ;
+	show-icons: true;
+	disable-history: false;
+}
+
+@theme "/home/spacerat/.config/rofi/theme.rasi"

@@ -1,0 +1,62 @@
+#############################
+#############FONT############
+
+[font]
+#family = "FantasqueSansMono Symbols NotoFontsEmojis"
+size = 8.8
+
+[font.bold]
+family = "FantasqueSansMono"
+style = "Bold"
+
+[font.bold_italic]
+family = "FantasqueSansMono"
+style = "Bold Italic"
+
+[font.italic]
+family = "FantasqueSansMono"
+style = "Italic"
+
+[font.normal]
+family = "FantasqueSansMono"
+style = "Regular"
+
+###############################
+#############Colors############
+
+[colors.primary]
+background = "#191919"
+
+[colors.normal]
+black = "#282828"
+red = "#cc241d"
+green = "#98971a"
+yellow = "#d79921"
+blue = "#458588"
+magenta = "#b16286"
+cyan = "#689d6a"
+white = "#fbf1c7" 
+
+[colors.bright]
+black = "#665c54"
+red = "#fb4934"
+green = "#b8bb26"
+yellow = "#fabd2f"
+blue = "#83a598"
+magenta = "#d3860b"
+cyan = "#8ec07c"
+white = "#ebdbb2"
+
+###############################
+##############Etc##############
+
+[window]
+padding = { x = 2, y = 3 }
+
+[cursor]
+style = { shape="Beam", blinking="On" }
+thickness = 0.2
+blink_interval = 850
+
+[scrolling]
+history = 50000
