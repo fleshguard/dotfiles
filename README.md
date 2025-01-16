@@ -10,7 +10,7 @@ My collection of minimal, and patched, configuration files.
   
   [See patches](/Github/patches.md)
 ## How it will look:
-![img](/Github/screenshot.png)
+![Screenshot](/Github/screenshot.png)
 ## Dependencies for Arch (pacman):
 '$ pacman -Sy base-devel git libx11 libxft xorg-server xorg-xinit terminus-font awk rofi picom ttf-fira-code ttf-fantasque-sans-mono ttf-nerd-font'
 
