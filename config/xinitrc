@@ -7,8 +7,7 @@ picom -b
 slstatus & disown
 #autotiling & disown
 
-# xf86-input-synaptics removes certain options, makes it more convoluted.
-xinput set-prop 12 328 0.48
+xinput set-prop 12 328 0.48 # Touchpad Sensitivity
 xinput set-prop 23 354 0
 xinput set-prop 12 361 0
 
