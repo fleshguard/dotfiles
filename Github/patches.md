@@ -1,2 +1,2 @@
 ## Patches:
-### dwm: [hide_vacant_tags/taglabels](https://dwm.suckless.org/patches/taglabels/), [movestack](https://dwm.suckless.org/patches/movestack/), [scratchpad](https://dwm.suckless.org/patches/scratchpad/), [systray](https://dwm.suckless.org/patches/systray/)
+### dwm: [hide_vacant_tags](https://dwm.suckless.org/patches/taglabels/), [movestack](https://dwm.suckless.org/patches/movestack/), [scratchpads](https://dwm.suckless.org/patches/scratchpads/), [systray](https://dwm.suckless.org/patches/systray/), [fullscreen](https://dwm.suckless.org/patches/fullscreen/)
